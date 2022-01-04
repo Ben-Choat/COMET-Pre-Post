@@ -1,0 +1,19 @@
+Notes,Social.Cost.of.Carbon,Units,Discount.Rate.Percent, Time.Preference.Percent,Citation..See.Articles.For.Detailed.References
+"""Conservative estimate""",21,US$/ton C,7,0,Bagstad et al. 2012
+"""Non-conservative estimate""",85,US$/ton C,1,6, Bagstad et al. 2012
+India (66% C.I.),86 ($49-$157),US$/ton CO2,3; 5; and growth adjusted,1; 2,Ricke et al. 2018
+U.S.A. (66% C.I.),48 ($1-$118),US$/ton CO2,3; 5; and growth adjusted,1; 2,Ricke et al. 2018
+Saudi Arabia (66% C.I.),47 ($27-$86),US$/ton CO2,3; 5; and growth adjusted,1; 2,Ricke et al. 2018
+Brazil (66% C.I.),24 (14–41),US$/ton CO2,3; 5; and growth adjusted,1; 2,Ricke et al. 2018
+China (66% C.I.),24 (4–50),US$/ton CO2,3; 5; and growth adjusted,1; 2,Ricke et al. 2018
+United Arab Emirates (66% C.I.),24 (14–48),US$/ton CO2,3; 5; and growth adjusted,1; 2,Ricke et al. 2018
+USEPA estimate,12,2007US$/ton CO2,5,1,IAWG 2013
+USEPA estimate,42,2007US$/ton CO2,3,1,IAWG 2013
+USEPA estimate,62,2007US$/ton CO2,2.5,1,IAWG 2013
+SCC Survey of 386 experts,80 - 300,US$/ton CO2,NA,1.2 - 4.4,Pindyck 2019
+SCC Survey w/outliers trimmed,80 - 100,US$/ton CO2,NA,1.2 - 4.4,Pindyck 2019
+SCC,121,US$/ton CO2,2.5,0,Pindyck 2019
+SCC,101,US$/ton CO2,3,0,Pindyck 2019
+SCC,81,US$/ton CO2,4,0,Pindyck 2019
+SCC,65,US$/ton CO2,6,0,Pindyck 2019
+Discount rate only,NA,NA,1 - 3 (mean = 2.25; median = 2),mode = 0; mean = 1.1%; median = 0.5%,Drupp et al. 2015
